@@ -1,2 +1,2 @@
 # test
-github session
+This is the repo about the github session
